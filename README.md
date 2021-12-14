@@ -1,6 +1,6 @@
 # GlockChain
 
-a GCustomized blockchain example
+- a GCustomized blockchain example
 
 ---
 
